@@ -1,4 +1,15 @@
-.body{
+body{
     background-color: lightslategray;
     font-family: sans-serif;
+}
+.welcome h2{
+    text-align: center;
+    width: 100%;
+}
+.welcome {
+    background-color: lightslategrey;
+}
+.pics {
+    display: flex;
+    width: 100%;
 }
