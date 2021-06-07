@@ -5,6 +5,10 @@ body{
 /*.welcome h2{
     width: 100%;
 }*/
+.message {
+    text-align: center;
+    font-size: 35px;
+}
 .welcome {
     background-color: lightslategrey;
     text-shadow: cornflowerblue;
