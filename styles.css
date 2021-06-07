@@ -2,16 +2,38 @@ body{
     background-color: lightslategray;
     font-family: sans-serif;
 }
-.welcome h2{
+/*.welcome h2{
     text-align: center;
     width: 100%;
-}
+}*/
 .welcome {
     background-color: lightslategrey;
 }
 .pics {
     display: flex;
-    width: 100%;
 }
 .split{
+    display: flex;
 }
+.split > *{
+    width: 100%;
+    gap: 1em;
+}
+/*.pic {
+    width: 100%;
+}
+.giraffe {
+    width: 100%;
+}
+.welcome {
+    width: 100;
+}*/
+#links:hover {
+    color: yellow;
+    width: 100%;
+}
+/*.welcome {
+    float: right;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}*/
